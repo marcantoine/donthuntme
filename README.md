@@ -12,7 +12,7 @@ And hopefully, the Product Hunt Team will not feature your product 🤗
 
 ### Installation
 
-`<script async src="https://donthuntme.com/dhm.js"></script>`
+`<script async defer src="https://donthuntme.com/dhm.js"></script>`
 
 1. Copy and paste this JS code snippet before the `</body>` of the website you are working on. 
 
