@@ -20,3 +20,10 @@ And hopefully, the Product Hunt Team will not feature your product 🤗
 Like this [https://archmaps.co?ref=producthunt ](https://archmaps.co?ref=producthunt )
 
 3. Do you see the Don't Hunt Me popup? Yes? Nice, it's working 🎉
+
+### Host it yourself
+
+If you prefer, you can implement directly in your app.
+The easiest way for now is to simply copy/paste the content of `dhmscript.js` in a JS module.
+
+Let me know if you think of a better way
