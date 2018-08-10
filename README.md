@@ -26,7 +26,7 @@ Like this [https://archmaps.co?ref=producthunt ](https://archmaps.co?ref=product
 #### Popup and Ribbon
 
 You can also display a "Please don't hunt me" ribbon with an onclick popup.
-`<script>
+```<script>
   (function(d, h, m){
     var js, fjs = d.getElementsByTagName(h)[0];
     if (d.getElementById(m)){return;}
@@ -35,7 +35,8 @@ You can also display a "Please don't hunt me" ribbon with an onclick popup.
     js.src = "https://donthuntme.com/dhm.js"
     fjs.parentNode.insertBefore(js, fjs)
   }(document, "script", "dhm"))
-</script>`
+</script>
+```
 
 1. Copy and paste this JS code snippet before the `</body>` of the website you are working on. Change `topright`to `bottomright`, `bottomleft`or `topleft` if you'd like to display it in another corner.
 
