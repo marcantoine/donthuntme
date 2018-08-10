@@ -26,7 +26,8 @@ Like this [https://archmaps.co?ref=producthunt ](https://archmaps.co?ref=product
 #### Popup and Ribbon
 
 You can also display a "Please don't hunt me" ribbon with an onclick popup.
-```<script>
+```
+<script>
   (function(d, h, m){
     var js, fjs = d.getElementsByTagName(h)[0];
     if (d.getElementById(m)){return;}
