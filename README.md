@@ -56,4 +56,4 @@ If you only want the blocking popup without the ribbon, use the `dhm.js`script.
 
 The donthuntme image is loaded from donthuntme.com. If you wish to lad it from your server, download donthuntme.png, put it in your root server folder and change `var host="donthuntme.com"` with your domain.
 
-Let me know if you think of a better way
+Let me know if you think of a better way!
